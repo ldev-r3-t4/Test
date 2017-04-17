@@ -2,15 +2,15 @@
 The front-end server is responsible for handling the management of messages for our project.
 For the sake of this document messages will be known as posts. Posts are stored in channels. A channel can contain as many posts as possible.
 
-The testing for the front-end server is done through Newman. Newman is a command-line tool for the popular Postman application. 
+The testing for the front-end server is done through [Newman](https://github.com/postmanlabs/newman). Newman is a command-line tool for the popular [Postman application](https://www.getpostman.com/).  
 The tests perform the following actions:
- -Creating a new channel.
- -Getting a channel.
- -Creating a new post.
- -Getting a post.
- -Updating a post.
- -Deleting a post.
- -Deleting a channel.
+- Creating a new channel.
+- Getting a channel.
+- Creating a new post.
+- Getting a post.
+- Updating a post.
+- Deleting a post.
+- Deleting a channel.
 
 These tests cover the main functionally of the API.
 As the API continues to develop more tests will need to be created.
