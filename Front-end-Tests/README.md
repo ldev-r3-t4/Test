@@ -1,3 +1,4 @@
+## Description of front-end server tests
 The front-end server is responsible for handling the management of messages for our project.
 For the sake of this document messages will be known as posts. Posts are stored in channels. A channel can contain as many posts as possible.
 
@@ -17,7 +18,7 @@ As the API continues to develop more tests will need to be created.
 All the tests are containerized in a docker image.
 Running the docker image displays the results of the tests.
 Instructions for running the image are located below.
-# The following commands run the tests for the front-end server portion.
+## The following commands run the tests for the front-end server portion.
 **Note:** Docker must be installed
 
 ```sh
