@@ -1,7 +1,9 @@
 # Test
 Final Project Test Submission
 
-(Geordon Worley)    [Analysis]()
+(Geordon Worley)
+- [Analytics Server and Tests](https://github.com/ldev-r3-t4/analytics)
+- [Test Video](https://youtu.be/MxgQKs_I0oo)
 
 (Matthew Gross)     [Front-end Server](https://github.com/ldev-r3-t4/Test/tree/master/Front-end-Tests)
 
